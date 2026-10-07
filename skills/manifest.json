@@ -1,0 +1,4 @@
+{
+  "aep": {"dependencies": [], "implicit_invocation": false},
+  "silly": {"dependencies": ["aep"], "implicit_invocation": true}
+}

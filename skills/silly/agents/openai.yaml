@@ -1,0 +1,4 @@
+interface:
+  display_name: "Silly"
+  short_description: "自动结合 AEP，以直白递进和犀利反讽拆解判断、代价与利益博弈"
+  default_prompt: "使用 $silly 并自动应用 AEP，直白、锋利地拆解我的判断和处境，把现实代价逐层说透，用有依据的反讽戳破关键借口，并给出具体纠偏动作。"

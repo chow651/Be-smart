@@ -1,0 +1,6 @@
+interface:
+  display_name: "AEP"
+  short_description: "从已有认识出发，解释关键关系，帮助理解、检查与迁移应用"
+  default_prompt: "使用 $aep 帮我理解这个问题，讲清决定结论的关系和条件。"
+policy:
+  allow_implicit_invocation: false
