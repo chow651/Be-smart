@@ -39,7 +39,7 @@
 
 AEP 会围绕同一个实际过程解释对象、条件与因果，让你能判断条件变化后会发生什么。证明、代码、社会现象和文章分析，按各自需要展开；篇幅服从问题。
 
-[查看理解与迁移示例 →](examples/understanding.md)
+[查看理解与迁移示例 →](examples/understanding.md) · [实测对照 →](examples/tested-samples.md)
 
 ### Silly：把一直回避的后果推到眼前
 
@@ -58,7 +58,7 @@ AEP 会围绕同一个实际过程解释对象、条件与因果，让你能判�
 
 它会检验目标、前提、激励与真实替代方案，直接指出关键缺口，再提出能改变局面的动作。已经想清楚代价、负担可承受的价值选择，应得到尊重。
 
-[查看决策分析示例 →](examples/decision-analysis.md) · [阅读完整文风样稿 →](skills/silly/references/voice-and-examples.md)
+[查看决策分析示例 →](examples/decision-analysis.md) · [实测对照 →](examples/tested-samples.md) · [阅读完整文风样稿 →](skills/silly/references/voice-and-examples.md)
 
 ## 开始使用
 
@@ -163,7 +163,7 @@ python scripts/check.py
 python -m unittest discover -s tests -v
 ```
 
-检查覆盖技能元数据、本地引用、依赖关系和安装行为。GitHub Actions 在 Windows 与 Linux 上运行同一套检查。对模型行为的判断需要真实问题、对照与反馈；当前示例是人工编写的说明，不作为效果证明。
+检查覆盖技能元数据、本地引用、依赖关系和安装行为。GitHub Actions 在 Windows 与 Linux 上运行同一套检查。对模型行为的判断需要真实问题、对照与反馈；[实测对照](examples/tested-samples.md)收录了加载与不加载技能的实际输出（单次示例），其余示例是人工编写的说明，不作为效果证明。
 
 ## 从 jiucai 迁移
 
